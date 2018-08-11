@@ -1,0 +1,9 @@
+{
+  "name": "Dijkstra-Algorithm-in-JS",
+  "version": "0.1.0",
+  "description": "Dijkstra's Algorithm in JavaScript",
+  "main": "dijkstraAlgo.js",
+  "repository": "https://github.com/m0m0i/Dijkstra-Algorithm-in-JS.git",
+  "author": "m0m0i <hirocorp01@gmail.com>",
+  "license": "MIT"
+}
